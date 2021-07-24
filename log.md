@@ -14,6 +14,7 @@
 ##### Felt extra instancy to coding 
 
 **Today's Progress**: Practicing examples of C Structure & Pointers, Learning C Structure & Function || C Structure & Union ||
+
 **Thoughts:** I'm tired today to complete the practicing of the C Function examples. Next-day I have to do better practicing to complete the unit fully. 
 
 **Link to work:** [C Program | C Structure & Function - Practicing](https://github.com/ImranAvenger/100-days-of-code/blob/8d7715a4c1f26fce1367afd8edf76cc24547e5ce/Screenshots/Screenshot%20(3).png) 
